@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@400;600&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Urbanist", sans-serif;
+}
+
+body {
+  background-color: #9ca3af;
+}
+
+.main-container {
+  margin: 10% 20%;
+  background-color: #d1d5db;
+  padding: 2rem;
+  border-radius: 2rem;
+}
+/* Buttons  */
+
+.btn {
+  border-radius: 40px;
+  height: 2.5rem;
+  width: 5rem;
+  margin: 0.5rem;
+  background: #3e64ff;
+  border-color: #3e64ff;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.movie-list {
+  border: solid 1px #9ca3af;
+  margin: 1.5rem auto;
+  border-radius: 0.5rem;
+  max-width: 30rem;
+
+  padding: 0.5rem;
+}
